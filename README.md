@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Muhammad Daffa Sasmita!
 
-🎓 I'm a Computer Science graduate from BINUS University  
+🎓 I'm a Bachelor of Computer Science from BINUS University  
 💻 Passionate Backend Developer — I love building scalable and efficient systems  
-🌐 I also enjoy working on fullstack and mobile projects when needed
+🌐 I also enjoy working on fullstack and mobile projects
 
 ---
 
