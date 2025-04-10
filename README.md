@@ -31,7 +31,10 @@
 
 ### 📫 Let's connect!
 Feel free to reach out or check out my projects 😄  
+
 🌍 GitHub: github.com/daffasasmita23
+
 📧 Email: mdaffasasmita@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/daffasasmitaa/
 
