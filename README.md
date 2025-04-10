@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi there, I'm Muhammad Daffa Sasmita!
 
-<!--
-**daffasasmita23/daffasasmita23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science graduate from BINUS University  
+💻 Passionate Backend Developer — I love building scalable and efficient systems  
+🌐 I also enjoy working on fullstack and mobile projects when needed
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+- 💡 HTML, CSS  
+- 🐍 Python  
+- ⚛️ ReactJS, JavaScript  
+- 🎯 Dart & Flutter  
+- 🍏 Swift  
+- 🌐 Node.js
+
+**Databases:**  
+- 🗃️ SQL  
+- 🔥 Firebase
+
+---
+
+### 🚀 What I'm up to
+- Currently learning more about backend optimization and system design
+- Exploring cloud functions and backend integrations
+- Working on mobile projects using Flutter + Firebase
+
+---
+
+### 📫 Let's connect!
+Feel free to reach out or check out my projects 😄  
+🌍 GitHub: github.com/daffasasmita23
+📧 Email: mdaffasasmita@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/daffasasmitaa/
+
